@@ -20,7 +20,6 @@
 
 - 📫 How to reach me *harshitsaini1188@gmail.com*
 
-- ⚡ Fun fact *I think I am funny.*
 
 
 ## 🌐 Socials:
