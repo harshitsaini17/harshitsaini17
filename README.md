@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *AIML, Deep learning and Gen AI*
 
-- 👯 I’m looking to collaborate on [IIT J Family Tree](https://github.com/devlup-labs/iitj_family_tree)
+- 👯 I’m looking to collaborate on [Datafusion](https://github.com/apache/datafusion)
 
 - 👨‍💻 All of my projects are available at [https://www.harshitsaini.vercel.app](https://www.harshitsaini.vercel.app/)
 
